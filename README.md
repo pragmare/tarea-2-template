@@ -51,3 +51,19 @@ Configura una [Toolchain](https://www.jetbrains.com/help/clion/how-to-create-too
 ### Visual Studio Code
 
 Instala la extensión [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) para usar apropiadamente las características de VSCode con el lenguaje C.
+
+## Clonar el repo
+
+Con un sistema que cuente con git, claro:
+
+SSH (Recomendado):
+
+```
+git clone git@github.com:pragmare/tarea-2-template.git
+```
+
+HTTPS:
+
+```
+git clone https://github.com/pragmare/tarea-2-template.git
+```
